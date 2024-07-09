@@ -1,4 +1,4 @@
-### Olá , eu sou Fabio Lucas! ✋
+### Olá , eu sou Fabio Lucas. Estudante de Ciência da Computação e Entusiasta de Tecnologia! ✋
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_lucs/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-lucas-28a0161ab/)
